@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="/Photo on 07-04-16 at 17.32.jpg" width="350">
+  <img src="My-Profile/Photo on 07-04-16 at 17.32.jpg" width="350">
 </p>
 
 
