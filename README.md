@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/7180afk/My-Profile/blob/gh-pages/Photo%20on%2007-04-16%20at%2017.32.jpg" width="350">
+  <img src="/Photo on 07-04-16 at 17.32.jpg" width="350">
 </p>
 
 
