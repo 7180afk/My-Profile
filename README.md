@@ -3,8 +3,7 @@
 
 
 <p align="center">
-  <img src="" width="350" title="hover text">
-  
+  <img src="https://github.com/7180afk/My-Profile/blob/gh-pages/Photo%20on%2007-04-16%20at%2017.32.jpg" width="350">
 </p>
 
 
