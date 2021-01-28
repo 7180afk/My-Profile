@@ -3,7 +3,7 @@
 
 
 
-![Alessio](https://github.com/7180afk/My-Profile/blob/gh-pages/Alessio.jpg)
+![Alessio](Alessio.jpg)
 
 
 
