@@ -5,7 +5,7 @@
 
 ![Alessio](Alessio.jpg)
 
-
+### I am an F&B fixer. Experienced in complex and funny proejcts across Europe and China.
 
 You can use the [editor on GitHub](https://github.com/7180afk/My-Profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
