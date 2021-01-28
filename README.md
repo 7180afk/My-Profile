@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 ## Alessio Binetti CV 2021
 
-
+![Profile]()
 
 
 You can use the [editor on GitHub](https://github.com/7180afk/My-Profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
