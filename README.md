@@ -5,7 +5,7 @@
 
 ![Alessio](Alessio.jpg)
 
-## I am an F&B fixer. Experienced in complex and funny proejcts across Europe and China.
+### I am an F&B fixer. Experienced in complex, hig competitive and dope projects across Europe and China. At the noment I am deveoping a new concept for Shanghai. Contact me on 7180afk@gmail.com for business or update. 
 
 You can use the [editor on GitHub](https://github.com/7180afk/My-Profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
