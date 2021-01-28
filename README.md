@@ -3,7 +3,7 @@
 
 
 
-![Photo on 07-04-16 at 17.32](https://raw.githubusercontent.com/7180afk/My-Profile/gh-pages/Photo%20on%2007-04-16%20at%2017.32.jpg)
+![Alessio](https://github.com/7180afk/My-Profile/blob/gh-pages/Alessio.jpg)
 
 
 
